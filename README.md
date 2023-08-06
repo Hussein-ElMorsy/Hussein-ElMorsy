@@ -7,8 +7,6 @@
 
 - 👯 I’m looking to collaborate on **Web projects**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/hussein-el-morsy-477035222/](https://www.linkedin.com/in/hussein-el-morsy-477035222/)
-
 - 📫 How to reach me **husseinessa855@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1H5f8PLgx85alp5ejABZHKs7e-4fkJ5D0/view?usp=sharing](https://drive.google.com/file/d/1H5f8PLgx85alp5ejABZHKs7e-4fkJ5D0/view?usp=sharing)
