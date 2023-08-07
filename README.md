@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Backend development (Node.js-Express-MongoDB)**
 
-- 👯 I’m looking to collaborate on **Web projects**
+- 👯 I’m looking to collaborate on **Software projects**
 
 - 📫 How to reach me **husseinessa855@gmail.com**
 
