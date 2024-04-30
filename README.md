@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hussein El-Morsy</h1>
-<h3 align="center">Senior-year university student at Cairo University's Faculty of Computers and Artificial Intelligence. Passionate software developer and competitive programmer. Participated in ECPC qualifications in 2021, 2022, and Codeforces online contests. Keen interest in software engineering. Seeking to contribute technical expertise, problem-solving skills, and creativity to develop innovative software solutions. Adaptable, resilient, and dedicated team player. Committed to pursuing a career in software engineering and making meaningful contributions to the field. Excited for future opportunities and growth.</h3>
+<h3 align="center">Software Engineer</h3>
 
 - 🔭 I’m currently working on **Software projects**
 
